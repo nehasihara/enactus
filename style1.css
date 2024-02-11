@@ -1,0 +1,50 @@
+.topbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 150px;
+    font-size: xx-large;
+}
+#logo{
+    width: 200px;
+    height: 100px;
+    margin-right: 50px;
+}
+.second{
+    background-color: rgb(237, 198, 80);
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+#video{
+    margin-right: 30px;
+}
+.downbox{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: #232D39;
+    color: white;
+}
+#kaagaz{
+    height: 80px;
+    background-color: rgb(237, 198, 80);
+    color: white;
+    text-align: center;
+    font-size: xxx-large;
+}
+.third{
+    background-color:rgb(227, 222, 222);
+    text-align: center;
+    font-size: 25px;
+}
+#know{
+    width: 100px;
+    height: 60px;
+    background-color: rgb(237, 198, 80) ;
+    color: white;
+   
+    margin-left: 550px;
+    border-radius: 5px;
+}
